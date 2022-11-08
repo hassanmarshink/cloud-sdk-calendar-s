@@ -1,0 +1,8 @@
+{
+  "inputDir": "./resources/service-specs",
+  "serviceMapping": "./resources/service-mapping.json",
+  "outputDir": "./src/generated",
+  "generateJs": false,
+  "generatePackageJson": false,
+  "clearOutputDir": true
+}
